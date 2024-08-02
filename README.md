@@ -1,0 +1,2 @@
+# CodeAlpha_Handwritten_Character_Recognition
+MACHINE LEARNING TASK 3
